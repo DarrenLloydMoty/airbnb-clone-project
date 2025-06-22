@@ -1,3 +1,5 @@
+
+
 # airbnb-clone-project
 Project to create an air bnb backend
 
@@ -139,3 +141,31 @@ All communications with the API will use HTTPS to protect data in transit from e
 
 These security measures protect sensitive data such as user credentials, personal info, and payment transactions.
 
+## CI/CD Pipeline
+
+Continuous Integration and Continuous Deployment (CI/CD) help automate code testing and deployment, ensuring faster and more reliable development workflows.
+
+### Tools:
+- **GitHub Actions**: Automates running tests and linting on every push or pull request.
+- **Docker**: Containerizes the application for consistency across environments.
+- **(Optional) Heroku / Render / AWS**: Used to host and deploy the final version of the app.
+
+### Benefits:
+- Catches bugs early through automated testing.
+- Ensures consistent deployment across environments.
+- Speeds up release cycles and reduces manual errors.
+
+
+## CI/CD Pipeline
+
+Continuous Integration and Continuous Deployment (CI/CD) help automate code testing and deployment, ensuring faster and more reliable development workflows.
+
+### Tools:
+- **GitHub Actions**: Automates running tests and linting on every push or pull request.
+- **Docker**: Containerizes the application for consistency across environments.
+- **(Optional) Heroku / Render / AWS**: Used to host and deploy the final version of the app.
+
+### Benefits:
+- Catches bugs early through automated testing.
+- Ensures consistent deployment across environments.
+- Speeds up release cycles and reduces manual errors.
