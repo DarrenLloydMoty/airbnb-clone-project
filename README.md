@@ -90,6 +90,29 @@ Manages the infrastructure and deployment pipeline. Sets up CI/CD processes, man
 ### 4. Security Specialist
 Implements application-level and API security. Focuses on authentication, authorization, encryption, rate limiting, and vulnerability assessments.
 
+
+## Feature Breakdown
+
+### 1. User Management
+Handles user registration, login, profile updates, and account security. Supports authentication and role-based access control for hosts and guests.
+
+### 2. Property Management
+Allows hosts to list properties with details such as price, availability, amenities, and images. Includes functionality to edit, update, or delete listings.
+
+### 3. Booking System
+Enables users to search for properties by location, date, or price. Supports making, modifying, and canceling bookings while managing property availability.
+
+### 4. Review and Rating System
+Guests can leave reviews and star ratings for properties they’ve stayed in. Hosts can view feedback, helping build trust and improve quality.
+
+### 5. Payment Integration
+Securely processes user payments and handles booking charges. May include support for transaction history and refunds, integrating with external payment APIs.
+
+### 6. Admin Dashboard (Optional but realistic)
+Provides admin users with analytics and tools to manage users, listings, and reported issues within the system.
+
+
+
 ### 5. Project Manager / Team Lead
 Coordinates the team, sets milestones, tracks progress, and ensures timely delivery. Acts as a bridge between the technical team and stakeholders, ensuring clear communication and accountability.
 
