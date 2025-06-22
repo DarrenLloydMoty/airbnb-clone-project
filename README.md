@@ -74,3 +74,22 @@ Features: Post and manage reviews for properties.
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 ⚙️
+
+
+## Team Roles
+
+### 1. Backend Developer
+Responsible for implementing the application's core logic, APIs, and server-side functionality. Ensures proper communication between the frontend and the database, handles requests/responses, and implements business rules.
+
+### 2. Database Administrator (DBA)
+Designs and maintains the database structure. Responsible for creating schemas, optimizing queries, managing backups, and ensuring data integrity and security.
+
+### 3. DevOps Engineer
+Manages the infrastructure and deployment pipeline. Sets up CI/CD processes, manages Docker containers, monitors performance, and ensures high availability and scalability.
+
+### 4. Security Specialist
+Implements application-level and API security. Focuses on authentication, authorization, encryption, rate limiting, and vulnerability assessments.
+
+### 5. Project Manager / Team Lead
+Coordinates the team, sets milestones, tracks progress, and ensures timely delivery. Acts as a bridge between the technical team and stakeholders, ensuring clear communication and accountability.
+
