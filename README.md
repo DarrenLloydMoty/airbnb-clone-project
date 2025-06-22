@@ -116,3 +116,26 @@ Provides admin users with analytics and tools to manage users, listings, and rep
 ### 5. Project Manager / Team Lead
 Coordinates the team, sets milestones, tracks progress, and ensures timely delivery. Acts as a bridge between the technical team and stakeholders, ensuring clear communication and accountability.
 
+
+
+## API Security
+
+To ensure the safety and integrity of user data and transactions, the backend APIs will include the following security measures:
+
+### 1. Authentication
+Only verified users can access the system using secure login mechanisms (e.g., JWT or OAuth2). This prevents unauthorized access.
+
+### 2. Authorization
+Role-based permissions control what actions a user can take. For example, only property owners can modify their listings.
+
+### 3. Rate Limiting
+Limits the number of requests per user or IP address to prevent abuse (e.g., brute-force attacks or DDoS attempts).
+
+### 4. Input Validation and Sanitization
+Prevents injection attacks (like SQL or XSS) by validating and cleaning user inputs before processing.
+
+### 5. HTTPS Enforcement
+All communications with the API will use HTTPS to protect data in transit from eavesdropping and tampering.
+
+These security measures protect sensitive data such as user credentials, personal info, and payment transactions.
+
